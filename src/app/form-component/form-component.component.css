@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+}
+label{
+    text-align: left;
+}
+.alert-danger{
+    background: linear-gradient(45deg,pink,plum);
+}
